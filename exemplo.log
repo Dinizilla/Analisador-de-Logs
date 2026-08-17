@@ -1,0 +1,22 @@
+Exemplo
+
+Considerando um arquivo de log contendo:
+
+192.168.1.10 - acesso
+10.0.0.5 - acesso
+192.168.1.10 - acesso
+192.168.1.10 - acesso
+10.0.0.5 - acesso
+192.168.1.10 - acesso
+172.16.0.20 - acesso
+
+Se o usuário definir o limite como:
+
+3
+
+O resultado apresentado será semelhante a:
+
+Endereço IP       Qtd. Requisições
+192.168.1.10      4
+
+O IP 192.168.1.10 foi identificado porque apareceu mais vezes do que o limite configurado.
