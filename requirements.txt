@@ -1,0 +1,23 @@
+🚀 Como executar
+1. Pré-requisitos
+
+É necessário ter o Python 3 instalado.
+
+O projeto utiliza o Tkinter para a interface gráfica.
+
+2. Clone o repositório
+git clone https://github.com/Dinizilla/Analisador-de-Logs.git
+3. Entre no diretório
+cd Analisador-de-Logs
+4. Execute o programa
+python main.py
+
+Caso o arquivo principal tenha outro nome, substitua main.py pelo nome correspondente.
+
+🖱️ Utilização
+Execute a aplicação.
+Clique em "Selecionar Arquivo...".
+Selecione o arquivo de log.
+Informe o limite de requisições.
+Clique em "Analisar IPs".
+Os endereços IP que ultrapassarem o limite serão apresentados na tabela.
