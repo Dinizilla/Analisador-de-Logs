@@ -1,6 +1,6 @@
 # 🔎 Analisador de Logs
 
-Aplicação desktop desenvolvida em **Python** para análise de arquivos de log, identificação de endereços IP e detecção de IPs que ultrapassam um limite configurável de requisições.
+Aplicação simples desktop desenvolvida em **Python** para análise de arquivos de log, identificação de endereços IP e detecção de IPs que ultrapassam um limite configurável de requisições.
 
 O projeto foi desenvolvido como uma prática de programação e como forma de explorar conceitos relacionados à **análise de logs e Segurança da Informação**.
 
